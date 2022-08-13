@@ -75,26 +75,15 @@
 
 {"key": "美食","name": "美食乐欢天😂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/owen10086/tvbox/src/branch/main/MB/美食.txt"},
 {"key": "棋牌","name": "🌝棋牌老头乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/owen10086/tvbox/raw/branch/main/MB/%E6%88%91%E7%88%B1%E6%A3%8B.txt"},
-		
-{"key":"茶杯狐",
- "name":"茶杯狐",
- "type":3,
- "api":"csp_XBiubiu",
- "searchable":1,
- "quickSearch":1,
- "filterable":0,
- "ext":"https://share.nite07.com/api/v3/file/source/12874/cupfox.json?sign=6YhNk5_eHl2bsRWNKLscVZFPnGEV0WDodsmvTtumLIw%3D%3A0"},	
-		
-		
-		{
-	         "key": "KanSJ_spider",
-		"name": "🐞看视界",
-		"api": "csp_KanSJ",
-		"type": 3,
-		"filterable": 1,
-		"quickSearch": 1,
-		"searchable": 1,
-		"ext": ""
+	{
+	"key": "KanSJ_spider",
+        "name": "🐞看视界",
+	"api": "csp_KanSJ",
+	"type": 3,
+	"filterable": 1,
+	"quickSearch": 1,
+	"searchable": 1,
+	"ext": ""
 	},{
 	"key": "Lezhu_spider",
 	"name": "🐞乐猪影视",
@@ -105,31 +94,31 @@
 	"searchable": 1,
 	"ext": ""
 }, {
-		"key": "293视频",
-		"name": "🐞293视频",
-		"type": 3,
-		"api": "csp_SP293",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": ""
+        "key": "293视频",
+	"name": "🐞293视频",
+	"type": 3,
+	"api": "csp_SP293",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": ""
 	}, {
-		"key": "Smdyy_spider",
-		"name": "🐞神马影视",
-		"api": "csp_Smdyy",
-		"type": 3,
-		"filterable": 1,
-		"quickSearch": 1,
-		"searchable": 1,
-		"ext": ""
+	"key": "Smdyy_spider",
+	"name": "🐞神马影视",
+	"api": "csp_Smdyy",
+	"type": 3,
+	"filterable": 1,
+	"quickSearch": 1,
+	"searchable": 1,
+	"ext": ""
 	}, {
-		"key": "小苹果",
-		"name": "🐞小苹果",
-		"type": 3,
-		"api": "csp_LiteApple",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
+	"key": "小苹果",
+	"name": "🐞小苹果",
+	"type": 3,
+	"api": "csp_LiteApple",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
 	}, {
 		"key": "追剧喵",
 		"name": "🐞追剧喵",
