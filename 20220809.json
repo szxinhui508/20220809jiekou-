@@ -1,13 +1,12 @@
 {
-	//不再更新jar包，挂一个删一个，且用且珍惜。
-	//微信公众号：巧技  qq频道：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=uDcBv&businessType=9&from=246610&biz=ka
-	"spider": "https://szxinhui508.github.io/20220809jar/20220809.jar",
-	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]
+//巧技qq频道：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=uDcBv&businessType=9&from=246610&biz=ka
+"spider": "https://szxinhui508.github.io/20220809jar/20220809.jar",
+"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+"lives": [{
+"group": "redirect",
+"channels": [{
+"name": "live",
+"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]
 		}]
 	}],
 	"sites": [
@@ -76,6 +75,17 @@
 
 {"key": "美食","name": "美食乐欢天😂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/owen10086/tvbox/src/branch/main/MB/美食.txt"},
 {"key": "棋牌","name": "🌝棋牌老头乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/owen10086/tvbox/raw/branch/main/MB/%E6%88%91%E7%88%B1%E6%A3%8B.txt"},
+		
+{"key":"茶杯狐",
+ "name":"茶杯狐",
+ "type":3,
+ "api":"csp_XBiubiu",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":0,
+ "ext":"https://share.nite07.com/api/v3/file/source/12874/cupfox.json?sign=6YhNk5_eHl2bsRWNKLscVZFPnGEV0WDodsmvTtumLIw%3D%3A0"},	
+		
+		
 		{
 	         "key": "KanSJ_spider",
 		"name": "🐞看视界",
