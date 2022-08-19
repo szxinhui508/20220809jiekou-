@@ -1,5 +1,4 @@
 {
-//巧技qq频道：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=uDcBv&businessType=9&from=246610&biz=ka
 "spider": "https://szxinhui508.github.io/20220809jar/20220809.jar",
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "lives": [{
@@ -75,6 +74,7 @@
 
 {"key": "美食","name": "美食乐欢天😂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/owen10086/tvbox/src/branch/main/MB/美食.txt"},
 {"key": "棋牌","name": "🌝棋牌老头乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/owen10086/tvbox/raw/branch/main/MB/%E6%88%91%E7%88%B1%E6%A3%8B.txt"},
+	{"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":0,"quickSearch":0,"filterable":0},
 	{
 	"key": "KanSJ_spider",
         "name": "🐞看视界",
