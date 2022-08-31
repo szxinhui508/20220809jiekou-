@@ -1,6 +1,8 @@
 {
-"spider": "https://szxinhui508.github.io/20220822jar/yuanhua0821.jar",
-"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+"spider":"https://神器每日推送.tk/jar;md5;8c74980779810db0309ed15cdf2ba073",
+
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+
 "sites": [
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/json/高中课堂.json"},
 
