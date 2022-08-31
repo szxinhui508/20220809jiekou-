@@ -3,8 +3,8 @@
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites": [
 
-{"key": "学堂1","name": "高中学习","type": 3,"api": "csp_Blijc","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://szxinhui508.github.io/gaozhongxuexi/gaozhongxuexi.json"},
-{"key": "EXCEL","name": "B站","type": 3,"api": "csp_BBB","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://szxinhui508.github.io/20220701BBB/BBB.txt"	
+{"key": "学堂1","name": "高中学习","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"https://szxinhui508.github.io/gaozhongxuexi/gaozhongxuexi.json"},
+{"key": "EXCEL","name": "B站","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://szxinhui508.github.io/20220701BBB/BBB.txt"	
 
 	}],
 	"parses": [{
